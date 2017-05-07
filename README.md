@@ -1,7 +1,5 @@
 # Phrase-Fight
-game i contributed to for code day sf 2016
+Animation code for game made on Code Day San Francisco 2016
+Uses HTML/JavaScript and Processing.js library.
 
-i just wrote the animation html/javascript code
-uses processing.js library
-
-plays through series of images like GIF format; graphical component of game
+Plays through series of images like in GIF format; graphical component of game
